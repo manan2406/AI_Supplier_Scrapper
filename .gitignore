@@ -1,0 +1,17 @@
+__pycache__
+venv
+.env
+gravity_casting_india.csv
+iron_casting_china.csv
+suppliers.csv
+trial2.py
+ui.py
+ui1.py
+ui2.py
+ui3.py
+ui4.py
+ui5.py
+ui6.py
+ui7.py
+ui8.py
+ui9.py

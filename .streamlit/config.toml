@@ -1,0 +1,4 @@
+[server]
+RunOnSave = true
+[theme]
+base="light"
